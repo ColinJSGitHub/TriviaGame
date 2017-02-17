@@ -1,0 +1,57 @@
+.answer {
+	text-align: center;
+	font-size: 20px;
+	color: white;
+}
+
+body{
+	background-image: url("../images/mammoth.jpg");
+	background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+
+/* section for time counter*/
+
+
+#display {
+
+  /* Typography */
+  text-align: center;
+  font-size: 60px;
+  font-family: monospace;
+
+  /* Visual */
+  background: black;
+  color: green;
+}
+
+#wrapper {
+
+  /* Positioning */
+  margin: 50px auto 0;
+
+  /* Box-model */
+  width: 500px;
+
+}
+
+#buttons { /* Typography */ text-align: center;}
+
+button {
+
+  /* Box-model */
+  height: 50px;
+  width: 100px;
+
+}
